@@ -29,3 +29,6 @@ El proyecto está organizado de la siguiente manera para mantener un código lim
 ├── 📁 data/                # Muestras o datasets anonimizados (cuando aplica)
 ├── .gitignore              # Archivos excluidos del control de versiones
 └── README.md               # Documentación principal del proyecto
+
+---
+*Desarrollado por Oscar Alejandro Londoño Gil*
