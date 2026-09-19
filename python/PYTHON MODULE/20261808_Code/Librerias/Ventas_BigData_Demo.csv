@@ -1,0 +1,1001 @@
+Fecha,Pais,Ciudad,Latitud,Longitud,Producto,Categoria,Cantidad,Precio_Unitario
+2024-02-25,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,14,60
+2024-02-22,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,6,1200
+2024-03-25,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,25,80
+2024-03-16,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,40,350
+2024-01-19,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,40,60
+2024-02-29,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,10,350
+2024-03-04,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,34,25
+2024-01-01,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,37,80
+2024-03-08,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,6,80
+2024-01-28,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,40,60
+2024-01-13,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,20,350
+2024-03-15,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,19,25
+2024-02-11,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,40,80
+2024-03-28,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,42,60
+2024-01-09,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,31,25
+2024-02-02,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,9,850
+2024-01-18,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,27,350
+2024-03-05,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,41,60
+2024-03-03,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,36,80
+2024-01-16,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,26,60
+2024-02-01,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,49,80
+2024-03-08,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,5,25
+2024-03-17,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,50,25
+2024-02-03,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,21,850
+2024-02-26,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,9,350
+2024-01-30,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,20,25
+2024-03-24,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,4,1200
+2024-02-23,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,6,25
+2024-03-11,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,27,80
+2024-02-09,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,6,25
+2024-01-06,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,34,60
+2024-02-07,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,2,350
+2024-01-08,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,45,850
+2024-01-06,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,39,60
+2024-03-24,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,11,25
+2024-01-25,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,40,350
+2024-01-17,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,31,25
+2024-03-21,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,50,80
+2024-02-26,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,23,350
+2024-01-02,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,20,1200
+2024-02-21,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,18,1200
+2024-03-06,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,17,25
+2024-01-02,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,44,850
+2024-03-08,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,21,1200
+2024-01-06,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,3,350
+2024-02-20,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,14,850
+2024-01-19,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,15,80
+2024-03-21,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,15,350
+2024-03-14,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,29,80
+2024-02-25,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,16,25
+2024-03-13,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,40,25
+2024-01-27,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,13,60
+2024-02-10,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,1,80
+2024-01-04,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,13,850
+2024-02-27,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,9,350
+2024-03-30,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,4,850
+2024-02-23,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,50,350
+2024-03-30,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,6,850
+2024-01-02,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,32,60
+2024-03-07,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,7,350
+2024-02-06,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,45,1200
+2024-03-02,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,7,850
+2024-03-15,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,49,60
+2024-01-12,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,33,25
+2024-02-24,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,38,850
+2024-01-04,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,8,25
+2024-03-31,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,20,350
+2024-03-10,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,28,25
+2024-02-16,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,22,60
+2024-02-13,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,21,25
+2024-01-14,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,38,60
+2024-03-11,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,7,80
+2024-03-19,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,49,60
+2024-02-04,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,26,60
+2024-01-17,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,25,1200
+2024-01-22,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,6,25
+2024-03-23,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,50,80
+2024-02-20,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,35,80
+2024-02-07,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,43,25
+2024-02-17,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,44,25
+2024-03-31,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,44,80
+2024-01-11,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,43,350
+2024-02-23,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,36,25
+2024-02-11,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,20,850
+2024-03-05,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,16,350
+2024-01-10,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,50,80
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,9,80
+2024-02-11,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,28,350
+2024-03-27,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,43,1200
+2024-03-17,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,22,60
+2024-03-01,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,47,25
+2024-01-10,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,34,80
+2024-01-31,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,21,80
+2024-02-10,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,28,80
+2024-02-27,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,21,850
+2024-02-11,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,33,1200
+2024-02-23,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,13,850
+2024-01-07,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,31,850
+2024-03-26,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,36,25
+2024-01-06,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,19,60
+2024-02-29,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,42,1200
+2024-01-20,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,42,60
+2024-02-28,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,6,350
+2024-02-13,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,27,80
+2024-01-20,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,36,350
+2024-03-31,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,36,25
+2024-01-24,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,4,1200
+2024-01-01,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,25,850
+2024-03-09,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,15,80
+2024-02-08,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,14,25
+2024-01-12,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,50,350
+2024-02-25,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,1,350
+2024-02-09,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,33,25
+2024-03-04,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,25,350
+2024-01-04,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,23,850
+2024-02-16,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,22,25
+2024-01-02,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,2,1200
+2024-01-06,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,11,25
+2024-01-26,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,2,60
+2024-03-19,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,31,25
+2024-01-11,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,39,25
+2024-03-04,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,40,80
+2024-02-11,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,39,1200
+2024-01-30,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,8,60
+2024-03-25,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,36,25
+2024-02-16,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,41,80
+2024-02-10,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,31,60
+2024-03-19,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,37,1200
+2024-03-27,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,32,25
+2024-02-07,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,24,60
+2024-03-04,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,22,25
+2024-02-15,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,10,25
+2024-03-10,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,41,1200
+2024-03-07,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,11,850
+2024-01-11,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,1,850
+2024-01-08,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,37,25
+2024-03-10,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,24,80
+2024-03-07,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,21,80
+2024-03-05,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,45,25
+2024-03-14,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,15,60
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,46,80
+2024-03-25,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,34,60
+2024-02-27,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,29,80
+2024-01-30,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,33,80
+2024-01-05,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,48,850
+2024-01-13,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,2,850
+2024-02-27,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,22,350
+2024-03-02,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,43,60
+2024-02-20,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,16,350
+2024-03-19,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,26,60
+2024-01-14,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,17,25
+2024-01-28,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,8,350
+2024-01-05,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,1,80
+2024-01-18,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,43,1200
+2024-03-05,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,16,350
+2024-03-19,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,27,80
+2024-03-06,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,50,25
+2024-01-10,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,38,1200
+2024-02-08,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,44,1200
+2024-02-18,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,38,1200
+2024-03-23,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,43,80
+2024-02-01,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,4,1200
+2024-03-05,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,30,25
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,24,25
+2024-02-26,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,27,25
+2024-03-15,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,21,1200
+2024-01-29,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,7,25
+2024-02-16,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,5,350
+2024-01-26,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,13,1200
+2024-01-09,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,23,25
+2024-03-25,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,30,25
+2024-02-26,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,5,80
+2024-03-14,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,13,350
+2024-01-11,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,4,1200
+2024-03-06,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,31,1200
+2024-01-15,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,16,60
+2024-02-21,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,45,1200
+2024-01-17,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,33,1200
+2024-03-05,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,8,60
+2024-03-23,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,30,25
+2024-01-22,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,11,60
+2024-03-15,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,41,25
+2024-02-03,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,5,60
+2024-01-29,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,33,850
+2024-03-10,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,31,850
+2024-01-12,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,3,850
+2024-03-16,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,15,25
+2024-01-10,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,25,25
+2024-02-23,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,4,1200
+2024-01-14,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,3,60
+2024-02-15,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,43,1200
+2024-01-29,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,11,350
+2024-03-27,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,36,25
+2024-02-25,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,20,60
+2024-03-15,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,14,60
+2024-03-11,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,34,60
+2024-03-08,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,39,60
+2024-02-09,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,3,1200
+2024-02-06,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,40,60
+2024-02-28,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,26,850
+2024-02-03,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,6,60
+2024-03-09,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,35,350
+2024-03-07,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,19,25
+2024-01-16,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,37,850
+2024-03-25,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,33,850
+2024-01-25,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,15,850
+2024-02-14,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,12,850
+2024-01-14,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,24,25
+2024-03-12,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,36,80
+2024-03-21,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,3,25
+2024-02-11,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,50,60
+2024-01-03,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,17,80
+2024-03-27,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,3,850
+2024-02-01,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,33,25
+2024-03-22,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,9,60
+2024-01-15,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,35,25
+2024-01-12,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,36,350
+2024-01-05,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,28,850
+2024-01-20,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,24,80
+2024-02-12,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,13,850
+2024-01-31,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,13,25
+2024-01-18,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,13,80
+2024-03-27,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,2,60
+2024-01-03,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,46,1200
+2024-01-06,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,13,350
+2024-01-17,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,45,80
+2024-01-30,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,27,80
+2024-02-03,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,8,80
+2024-01-08,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,30,350
+2024-03-29,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,12,850
+2024-01-02,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,9,25
+2024-02-15,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,2,80
+2024-02-12,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,40,25
+2024-03-19,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,33,60
+2024-02-17,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,8,25
+2024-03-14,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,47,350
+2024-01-16,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,7,850
+2024-03-09,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,46,1200
+2024-03-27,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,16,80
+2024-03-06,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,49,350
+2024-02-12,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,2,350
+2024-02-17,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,6,350
+2024-01-03,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,2,80
+2024-03-21,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,27,60
+2024-03-13,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,32,1200
+2024-03-18,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,6,850
+2024-01-08,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,13,80
+2024-01-08,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,27,60
+2024-03-10,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,48,80
+2024-03-12,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,18,350
+2024-02-15,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,8,25
+2024-02-17,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,31,25
+2024-01-04,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,16,850
+2024-01-17,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,44,25
+2024-01-11,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,8,60
+2024-02-14,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,16,1200
+2024-02-12,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,45,350
+2024-02-24,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,38,80
+2024-03-25,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,6,1200
+2024-02-23,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,39,850
+2024-03-24,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,16,25
+2024-03-17,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,22,25
+2024-03-14,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,10,60
+2024-03-25,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,23,850
+2024-01-06,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,2,1200
+2024-01-19,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,12,80
+2024-01-13,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,7,80
+2024-01-10,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,12,850
+2024-03-29,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,39,80
+2024-01-15,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,30,25
+2024-03-21,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,20,80
+2024-03-12,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,39,350
+2024-02-11,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,9,1200
+2024-01-16,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,28,60
+2024-02-09,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,7,850
+2024-01-21,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,29,80
+2024-01-13,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,49,60
+2024-03-24,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,19,850
+2024-01-12,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,23,25
+2024-01-26,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,5,350
+2024-02-07,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,23,60
+2024-03-05,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,38,80
+2024-03-21,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,4,25
+2024-02-04,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,26,60
+2024-01-10,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,14,1200
+2024-03-16,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,36,350
+2024-01-20,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,31,60
+2024-03-12,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,33,60
+2024-02-20,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,20,25
+2024-03-11,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,30,80
+2024-01-02,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,36,25
+2024-02-09,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,38,850
+2024-03-09,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,34,25
+2024-03-12,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,43,1200
+2024-02-20,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,40,350
+2024-03-14,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,43,25
+2024-02-29,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,21,1200
+2024-02-27,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,31,1200
+2024-03-13,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,29,1200
+2024-03-22,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,19,60
+2024-03-05,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,17,350
+2024-03-10,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,2,1200
+2024-03-28,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,47,60
+2024-01-15,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,36,60
+2024-01-26,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,8,350
+2024-02-27,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,28,350
+2024-02-17,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,47,1200
+2024-03-20,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,40,60
+2024-01-12,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,20,350
+2024-02-04,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,20,1200
+2024-02-14,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,6,850
+2024-03-17,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,36,80
+2024-03-25,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,16,60
+2024-01-08,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,34,60
+2024-02-23,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,38,1200
+2024-02-07,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,12,80
+2024-03-26,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,5,350
+2024-02-10,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,8,350
+2024-03-31,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,34,350
+2024-01-22,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,10,1200
+2024-03-08,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,37,1200
+2024-02-25,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,50,350
+2024-03-29,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,17,1200
+2024-02-12,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,21,60
+2024-01-10,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,2,80
+2024-01-11,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,24,25
+2024-01-11,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,20,1200
+2024-01-08,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,44,850
+2024-01-22,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,13,25
+2024-02-14,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,3,1200
+2024-02-28,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,14,80
+2024-01-28,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,41,350
+2024-02-18,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,45,80
+2024-01-27,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,18,80
+2024-03-10,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,4,80
+2024-03-13,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,13,60
+2024-02-04,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,10,1200
+2024-02-20,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,48,60
+2024-01-19,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,33,60
+2024-03-30,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,13,350
+2024-02-22,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,26,25
+2024-01-24,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,41,850
+2024-03-16,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,12,80
+2024-01-12,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,16,350
+2024-02-04,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,50,850
+2024-01-25,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,3,25
+2024-02-01,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,37,850
+2024-01-20,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,19,80
+2024-02-04,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,3,1200
+2024-02-26,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,45,1200
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,24,1200
+2024-03-20,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,17,25
+2024-03-29,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,4,80
+2024-03-28,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,48,850
+2024-01-10,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,21,25
+2024-03-22,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,46,850
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,1,350
+2024-01-04,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,32,60
+2024-01-29,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,32,80
+2024-01-17,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,48,850
+2024-02-24,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,10,60
+2024-01-26,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,9,850
+2024-01-15,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,28,850
+2024-03-13,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,37,1200
+2024-01-03,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,41,850
+2024-01-16,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,50,60
+2024-01-19,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,25,80
+2024-03-06,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,19,80
+2024-03-12,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,30,350
+2024-03-16,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,28,80
+2024-02-21,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,3,80
+2024-02-02,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,49,60
+2024-03-04,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,3,1200
+2024-01-03,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,39,80
+2024-01-22,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,26,60
+2024-03-25,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,18,850
+2024-01-29,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,47,60
+2024-02-14,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,31,60
+2024-03-21,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,37,350
+2024-03-29,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,19,850
+2024-02-26,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,13,1200
+2024-01-28,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,11,60
+2024-03-24,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,33,25
+2024-01-24,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,34,80
+2024-02-17,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,34,60
+2024-01-11,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,25,25
+2024-01-20,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,5,850
+2024-01-20,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,24,1200
+2024-01-21,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,18,350
+2024-02-02,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,33,850
+2024-02-19,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,38,1200
+2024-03-11,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,9,80
+2024-03-13,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,8,60
+2024-03-27,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,31,25
+2024-01-13,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,4,1200
+2024-01-10,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,10,1200
+2024-03-04,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,40,60
+2024-03-23,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,15,850
+2024-01-07,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,27,1200
+2024-01-26,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,24,350
+2024-02-04,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,9,60
+2024-02-04,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,20,25
+2024-03-09,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,35,850
+2024-01-15,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,11,850
+2024-01-23,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,42,25
+2024-02-19,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,2,850
+2024-03-18,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,21,80
+2024-03-16,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,48,350
+2024-02-25,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,40,60
+2024-02-05,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,47,1200
+2024-02-10,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,12,60
+2024-01-17,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,34,60
+2024-02-22,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,17,25
+2024-02-16,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,34,1200
+2024-02-26,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,11,80
+2024-03-26,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,26,1200
+2024-03-17,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,9,60
+2024-02-07,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,34,850
+2024-01-18,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,6,350
+2024-02-08,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,17,25
+2024-01-17,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,9,80
+2024-02-17,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,34,1200
+2024-01-07,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,18,1200
+2024-02-24,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,50,1200
+2024-02-02,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,13,80
+2024-03-09,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,13,350
+2024-02-10,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,12,1200
+2024-01-27,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,30,1200
+2024-03-01,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,3,850
+2024-03-24,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,2,80
+2024-01-02,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,14,1200
+2024-03-17,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,12,350
+2024-01-28,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,5,60
+2024-01-12,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,22,350
+2024-03-08,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,22,25
+2024-03-26,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,47,80
+2024-02-13,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,45,350
+2024-02-01,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,3,1200
+2024-01-23,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,18,25
+2024-02-11,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,27,1200
+2024-01-25,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,14,80
+2024-01-11,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,13,1200
+2024-02-13,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,47,80
+2024-02-25,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,49,850
+2024-02-21,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,17,850
+2024-03-13,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,3,350
+2024-03-15,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,7,60
+2024-02-11,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,16,60
+2024-01-12,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,25,1200
+2024-01-04,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,21,350
+2024-01-27,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,1,1200
+2024-01-12,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,8,80
+2024-02-21,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,18,25
+2024-03-29,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,41,80
+2024-02-17,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,47,60
+2024-02-13,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,21,1200
+2024-03-18,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,32,80
+2024-01-16,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,3,350
+2024-03-26,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,32,350
+2024-03-25,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,17,80
+2024-03-13,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,48,350
+2024-01-11,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,41,25
+2024-01-23,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,5,80
+2024-01-23,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,33,80
+2024-03-22,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,13,60
+2024-01-17,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,12,850
+2024-03-29,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,48,25
+2024-03-29,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,18,25
+2024-03-07,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,47,850
+2024-03-06,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,35,60
+2024-01-01,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,16,80
+2024-02-07,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,1,1200
+2024-03-27,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,49,25
+2024-01-09,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,34,850
+2024-03-28,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,6,850
+2024-02-04,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,4,60
+2024-01-03,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,16,850
+2024-03-19,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,45,25
+2024-02-06,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,43,350
+2024-03-23,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,22,1200
+2024-01-21,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,42,350
+2024-03-27,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,47,60
+2024-01-01,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,5,60
+2024-01-29,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,45,80
+2024-02-06,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,10,80
+2024-03-10,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,16,850
+2024-01-09,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,27,350
+2024-02-13,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,33,60
+2024-02-23,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,36,60
+2024-01-19,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,45,850
+2024-03-29,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,7,850
+2024-01-26,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,14,25
+2024-03-24,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,35,60
+2024-02-28,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,22,25
+2024-03-23,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,38,80
+2024-03-15,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,29,1200
+2024-03-21,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,35,25
+2024-01-02,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,9,25
+2024-02-25,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,1,350
+2024-01-09,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,13,350
+2024-02-24,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,25,25
+2024-02-27,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,22,60
+2024-03-02,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,29,350
+2024-01-08,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,18,80
+2024-03-25,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,25,1200
+2024-01-08,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,39,1200
+2024-03-08,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,20,350
+2024-01-21,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,20,350
+2024-03-30,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,27,350
+2024-03-22,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,33,60
+2024-02-08,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,11,850
+2024-02-21,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,10,80
+2024-01-02,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,20,60
+2024-03-03,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,21,350
+2024-03-28,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,18,25
+2024-02-27,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,48,25
+2024-03-16,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,35,1200
+2024-03-04,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,19,25
+2024-02-03,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,2,1200
+2024-01-16,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,15,350
+2024-03-04,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,31,25
+2024-03-09,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,27,850
+2024-03-02,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,34,1200
+2024-01-28,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,44,1200
+2024-01-13,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,19,80
+2024-03-24,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,21,350
+2024-02-13,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,20,60
+2024-02-14,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,39,80
+2024-02-21,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,50,850
+2024-01-09,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,40,80
+2024-01-26,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,21,25
+2024-02-20,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,4,60
+2024-01-17,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,31,1200
+2024-03-09,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,22,350
+2024-01-03,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,19,60
+2024-02-13,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,43,350
+2024-03-24,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,27,850
+2024-02-01,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,43,60
+2024-03-09,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,50,350
+2024-03-02,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,21,80
+2024-02-27,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,42,80
+2024-01-06,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,50,80
+2024-03-21,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,21,850
+2024-02-28,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,20,25
+2024-01-02,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,31,60
+2024-02-27,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,33,60
+2024-01-05,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,31,850
+2024-01-20,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,49,350
+2024-02-29,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,8,350
+2024-03-24,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,11,80
+2024-01-21,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,12,80
+2024-01-23,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,42,850
+2024-02-14,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,5,25
+2024-03-19,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,15,1200
+2024-03-29,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,30,350
+2024-01-22,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,34,1200
+2024-03-30,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,9,350
+2024-03-26,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,27,60
+2024-01-18,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,29,850
+2024-02-19,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,9,350
+2024-02-22,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,17,80
+2024-01-26,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,48,350
+2024-01-12,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,25,80
+2024-01-23,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,8,25
+2024-02-07,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,5,350
+2024-02-18,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,41,350
+2024-03-10,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,28,80
+2024-01-01,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,41,350
+2024-03-26,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,36,25
+2024-01-05,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,22,350
+2024-02-06,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,37,60
+2024-02-14,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,13,850
+2024-03-14,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,47,850
+2024-03-14,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,40,350
+2024-01-07,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,5,25
+2024-03-07,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,47,60
+2024-02-12,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,23,60
+2024-01-27,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,41,25
+2024-03-17,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,18,1200
+2024-02-23,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,6,80
+2024-03-16,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,22,25
+2024-03-21,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,4,850
+2024-01-22,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,50,850
+2024-03-21,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,12,350
+2024-03-31,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,11,1200
+2024-03-16,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,36,80
+2024-02-14,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,5,850
+2024-03-22,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,35,25
+2024-01-01,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,15,25
+2024-01-30,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,49,1200
+2024-01-07,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,28,850
+2024-02-18,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,15,350
+2024-02-28,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,4,25
+2024-03-27,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,21,60
+2024-03-28,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,33,80
+2024-03-26,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,48,1200
+2024-02-25,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,17,80
+2024-02-04,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,29,25
+2024-02-27,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,20,850
+2024-01-15,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,44,1200
+2024-02-19,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,28,350
+2024-01-29,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,12,850
+2024-02-12,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,7,25
+2024-03-31,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,49,25
+2024-02-13,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,46,350
+2024-02-12,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,46,80
+2024-03-30,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,46,25
+2024-01-12,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,29,25
+2024-03-14,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,8,1200
+2024-01-29,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,36,60
+2024-01-27,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,23,60
+2024-03-13,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,18,850
+2024-03-24,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,14,350
+2024-03-15,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,5,80
+2024-01-04,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,38,25
+2024-01-16,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,3,25
+2024-01-25,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,34,60
+2024-02-13,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,30,80
+2024-01-14,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,6,60
+2024-01-01,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,19,60
+2024-02-06,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,40,1200
+2024-03-19,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,45,350
+2024-03-09,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,3,1200
+2024-02-12,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,26,25
+2024-02-26,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,48,25
+2024-02-25,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,9,1200
+2024-02-24,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,28,25
+2024-02-19,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,22,350
+2024-01-22,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,23,1200
+2024-01-13,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,3,60
+2024-03-29,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,21,80
+2024-02-16,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,33,80
+2024-02-17,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,13,60
+2024-03-14,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,5,80
+2024-02-16,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,11,850
+2024-03-22,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,23,850
+2024-01-24,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,33,25
+2024-03-11,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,44,350
+2024-01-18,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,36,1200
+2024-02-19,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,32,80
+2024-01-29,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,44,25
+2024-02-22,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,49,350
+2024-02-29,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,38,350
+2024-03-13,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,29,25
+2024-02-27,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,38,80
+2024-03-30,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,16,25
+2024-02-09,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,14,350
+2024-01-20,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,43,1200
+2024-02-10,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,45,60
+2024-03-13,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,21,1200
+2024-01-26,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,10,1200
+2024-01-01,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,9,850
+2024-01-14,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,50,80
+2024-01-13,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,3,1200
+2024-02-04,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,34,25
+2024-03-15,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,15,80
+2024-02-06,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,18,1200
+2024-02-28,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,15,350
+2024-03-08,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,30,60
+2024-02-24,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,9,25
+2024-01-05,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,1,350
+2024-02-13,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,19,60
+2024-03-29,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,7,350
+2024-02-06,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,48,60
+2024-02-16,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,19,60
+2024-03-07,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,1,350
+2024-01-18,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,12,850
+2024-03-28,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,37,60
+2024-01-07,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,3,60
+2024-01-31,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,25,60
+2024-02-06,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,24,60
+2024-01-29,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,37,1200
+2024-03-17,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,33,1200
+2024-03-10,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,16,60
+2024-03-04,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,4,80
+2024-03-21,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,9,25
+2024-03-11,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,6,850
+2024-01-02,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,16,25
+2024-02-21,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,27,60
+2024-03-22,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,2,1200
+2024-01-30,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,5,60
+2024-01-12,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,39,850
+2024-02-28,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,45,80
+2024-01-28,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,17,60
+2024-03-28,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,15,25
+2024-03-23,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,44,1200
+2024-01-26,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,43,60
+2024-01-24,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,27,60
+2024-01-23,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,23,25
+2024-03-22,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,46,60
+2024-02-19,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,30,350
+2024-03-28,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,8,1200
+2024-01-04,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,33,350
+2024-01-23,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,4,60
+2024-02-13,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,37,1200
+2024-02-25,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,2,1200
+2024-03-25,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,46,80
+2024-02-22,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,37,60
+2024-03-17,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,20,850
+2024-01-21,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,29,25
+2024-01-22,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,1,850
+2024-01-20,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,19,80
+2024-01-21,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,3,350
+2024-03-07,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,3,850
+2024-01-19,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,16,1200
+2024-02-04,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,7,350
+2024-03-17,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,42,60
+2024-03-30,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,38,80
+2024-02-14,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,17,1200
+2024-02-19,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,32,60
+2024-01-07,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,34,850
+2024-02-25,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,39,80
+2024-03-18,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,39,350
+2024-03-29,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,30,1200
+2024-03-02,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,19,1200
+2024-03-25,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,44,350
+2024-03-26,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,26,350
+2024-01-22,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,41,60
+2024-02-04,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,15,60
+2024-02-07,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,4,25
+2024-03-24,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,3,25
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,1,850
+2024-02-14,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,24,350
+2024-02-12,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,5,60
+2024-01-30,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,38,350
+2024-03-05,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,17,350
+2024-01-07,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,43,850
+2024-02-17,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,4,1200
+2024-02-08,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,6,60
+2024-02-05,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,27,1200
+2024-02-25,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,40,60
+2024-01-16,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,43,25
+2024-02-11,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,30,1200
+2024-02-11,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,33,60
+2024-03-20,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,40,60
+2024-01-11,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,1,850
+2024-02-20,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,11,80
+2024-01-11,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,8,350
+2024-03-30,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,2,60
+2024-01-04,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,1,350
+2024-02-19,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,32,25
+2024-03-29,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,3,25
+2024-01-05,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,14,1200
+2024-01-24,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,17,1200
+2024-02-25,México,CDMX,19.4326,-99.1332,Mouse Inalámbrico,Accesorios,47,25
+2024-01-17,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,35,60
+2024-01-18,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,11,350
+2024-03-07,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,28,1200
+2024-02-27,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,14,80
+2024-03-03,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,11,1200
+2024-02-07,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,28,80
+2024-02-24,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,43,850
+2024-02-04,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,11,350
+2024-01-09,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,24,25
+2024-03-30,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,9,80
+2024-01-19,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,33,80
+2024-02-26,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,17,60
+2024-03-09,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,30,350
+2024-02-19,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,30,80
+2024-03-29,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,20,350
+2024-03-06,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,34,850
+2024-01-12,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,29,25
+2024-02-02,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,25,60
+2024-03-19,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,46,60
+2024-01-01,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,41,60
+2024-02-22,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,46,25
+2024-01-19,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,6,60
+2024-03-06,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,9,60
+2024-02-14,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,45,850
+2024-02-12,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,30,60
+2024-03-28,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,20,1200
+2024-02-14,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,16,850
+2024-02-21,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,33,60
+2024-01-22,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,14,60
+2024-01-25,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,13,80
+2024-02-13,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,31,350
+2024-02-14,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,47,850
+2024-03-19,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,46,25
+2024-01-28,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,2,25
+2024-01-24,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,8,25
+2024-02-08,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,9,60
+2024-02-08,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,15,80
+2024-02-03,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,16,25
+2024-01-02,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,34,350
+2024-02-04,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,46,25
+2024-03-29,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,43,80
+2024-01-07,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,48,350
+2024-03-22,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,42,25
+2024-01-15,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,23,80
+2024-03-07,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,11,80
+2024-03-06,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,35,350
+2024-02-03,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,10,80
+2024-01-03,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,34,850
+2024-03-06,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,6,350
+2024-02-06,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,10,80
+2024-03-15,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,5,1200
+2024-01-13,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,46,60
+2024-03-07,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,19,80
+2024-02-04,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,48,80
+2024-02-08,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,17,850
+2024-02-11,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,47,25
+2024-02-07,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,26,850
+2024-02-22,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,49,60
+2024-03-04,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,8,350
+2024-03-30,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,28,25
+2024-02-12,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,26,25
+2024-03-03,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,17,1200
+2024-02-06,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,35,850
+2024-01-21,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,44,1200
+2024-02-28,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,45,1200
+2024-01-11,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,10,1200
+2024-01-10,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,20,350
+2024-03-08,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,2,350
+2024-02-12,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,32,25
+2024-01-21,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,36,25
+2024-01-01,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,9,1200
+2024-02-10,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,32,25
+2024-02-22,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,26,80
+2024-03-25,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,11,60
+2024-03-31,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,42,25
+2024-03-17,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,25,350
+2024-02-22,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,21,60
+2024-01-21,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,31,350
+2024-03-26,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,18,60
+2024-03-23,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,39,850
+2024-01-12,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,17,850
+2024-01-14,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,5,60
+2024-01-16,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,5,25
+2024-01-23,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,23,80
+2024-01-04,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,34,1200
+2024-01-18,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,24,1200
+2024-03-28,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,6,850
+2024-02-04,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,49,1200
+2024-03-26,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,21,60
+2024-02-10,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,8,350
+2024-02-10,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,22,850
+2024-02-16,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,17,350
+2024-02-07,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,50,1200
+2024-01-03,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,34,1200
+2024-03-09,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,29,850
+2024-03-02,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,24,1200
+2024-02-07,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,8,1200
+2024-01-01,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,4,80
+2024-02-11,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,13,350
+2024-01-03,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,32,850
+2024-03-10,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,7,850
+2024-01-23,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,27,25
+2024-02-20,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,12,350
+2024-03-07,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,46,25
+2024-01-11,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,50,850
+2024-02-05,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,18,25
+2024-02-12,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,45,80
+2024-02-29,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,2,1200
+2024-03-28,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,14,80
+2024-01-29,Colombia,Medellín,6.2442,-75.5812,Smartphone X,Móvil,34,850
+2024-03-17,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,2,350
+2024-03-24,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,41,60
+2024-03-11,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,40,80
+2024-01-03,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,15,850
+2024-03-11,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,45,80
+2024-03-01,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,15,25
+2024-02-10,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,1,1200
+2024-01-03,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,23,350
+2024-01-03,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,3,350
+2024-03-03,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,12,850
+2024-02-28,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,44,350
+2024-02-16,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,11,850
+2024-02-14,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,1,350
+2024-03-08,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,2,850
+2024-01-17,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,9,350
+2024-03-27,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,46,60
+2024-03-05,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,20,25
+2024-02-23,Perú,Lima,-12.0464,-77.0428,Monitor 27,Tecnología,16,350
+2024-03-11,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,27,25
+2024-03-13,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,11,850
+2024-01-21,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,31,850
+2024-02-13,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,24,25
+2024-01-28,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,21,1200
+2024-01-15,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,28,80
+2024-01-28,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,41,60
+2024-01-21,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,18,60
+2024-01-22,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,37,25
+2024-03-26,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,1,60
+2024-02-05,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,5,1200
+2024-03-24,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,29,1200
+2024-03-15,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,29,25
+2024-02-13,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,9,25
+2024-03-17,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,24,350
+2024-02-16,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,35,60
+2024-01-19,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,17,25
+2024-01-23,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,36,25
+2024-03-06,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,40,25
+2024-02-04,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,33,850
+2024-01-19,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,38,80
+2024-03-26,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,17,1200
+2024-03-27,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,14,1200
+2024-02-23,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,16,80
+2024-02-14,Colombia,Medellín,6.2442,-75.5812,Monitor 27,Tecnología,30,350
+2024-01-10,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,39,60
+2024-03-23,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,19,850
+2024-01-14,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,32,80
+2024-01-18,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,42,1200
+2024-01-05,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,4,1200
+2024-02-04,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,36,850
+2024-02-26,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,19,80
+2024-02-07,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,46,60
+2024-01-19,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,4,1200
+2024-03-12,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,8,80
+2024-03-06,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,20,60
+2024-03-01,Perú,Lima,-12.0464,-77.0428,Laptop Pro,Tecnología,15,1200
+2024-03-30,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,19,60
+2024-02-27,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,11,25
+2024-02-15,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,26,25
+2024-03-12,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,15,350
+2024-02-19,México,CDMX,19.4326,-99.1332,Teclado Mecánico,Accesorios,39,80
+2024-03-31,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,6,350
+2024-03-07,méxico,Monterrey,25.6866,-100.3161,Laptop Pro,Tecnología,18,1200
+2024-03-08,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,18,25
+2024-03-27,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,43,1200
+2024-02-26,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,16,60
+2024-02-07,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,12,850
+2024-01-25,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,47,350
+2024-01-10,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,36,25
+2024-03-06,USA,Miami,25.7617,-80.1918,Auriculares BT,Audio,33,60
+2024-01-01,México,CDMX,19.4326,-99.1332,Laptop Pro,Tecnología,50,1200
+2024-01-17,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,41,25
+2024-02-18,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,19,60
+2024-01-07,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,3,850
+2024-01-29,Colombia,Medellín,6.2442,-75.5812,Laptop Pro,Tecnología,40,1200
+2024-02-29,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,41,25
+2024-03-10,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,6,25
+2024-01-04,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,27,850
+2024-01-13,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,15,60
+2024-01-08,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,15,60
+2024-02-27,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,3,80
+2024-03-12,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,50,80
+2024-03-01,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,48,850
+2024-03-04,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,36,60
+2024-02-10,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,17,850
+2024-02-20,Argentina,Buenos Aires,-34.6037,-58.3816,Laptop Pro,Tecnología,22,1200
+2024-02-05,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,35,60
+2024-03-30,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,26,350
+2024-02-29,España,Madrid,40.4168,-3.7038,Auriculares BT,Audio,44,60
+2024-02-12,Argentina,Buenos Aires,-34.6037,-58.3816,Mouse Inalámbrico,Accesorios,24,25
+2024-01-19,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,6,80
+2024-02-09,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,4,350
+2024-03-27,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,36,25
+2024-01-24,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,35,350
+2024-01-27,Argentina,Buenos Aires,-34.6037,-58.3816,Auriculares BT,Audio,23,60
+2024-02-27,México,CDMX,19.4326,-99.1332,Auriculares BT,Audio,15,60
+2024-03-31,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,23,1200
+2024-02-01,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,4,850
+2024-01-26,méxico,Monterrey,25.6866,-100.3161,Teclado Mecánico,Accesorios,33,80
+2024-01-08,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,23,350
+2024-02-26,méxico,Monterrey,25.6866,-100.3161,Auriculares BT,Audio,49,60
+2024-03-14,Perú,Lima,-12.0464,-77.0428,Auriculares BT,Audio,11,60
+2024-01-23,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,20,25
+2024-01-18,colombia,Bogotá,4.711,-74.0721,Teclado Mecánico,Accesorios,28,80
+2024-01-02,Argentina,Buenos Aires,-34.6037,-58.3816,Monitor 27,Tecnología,33,350
+2024-01-01,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,9,80
+2024-03-15,colombia,Bogotá,4.711,-74.0721,Laptop Pro,Tecnología,1,1200
+2024-02-12,España,Madrid,40.4168,-3.7038,Monitor 27,Tecnología,20,350
+2024-02-23,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,20,25
+2024-01-19,México,CDMX,19.4326,-99.1332,Monitor 27,Tecnología,43,350
+2024-01-12,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,46,350
+2024-02-14,méxico,Monterrey,25.6866,-100.3161,Smartphone X,Móvil,2,850
+2024-03-22,España,Madrid,40.4168,-3.7038,Smartphone X,Móvil,27,850
+2024-02-24,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,7,25
+2024-01-15,México,CDMX,19.4326,-99.1332,Smartphone X,Móvil,45,850
+2024-03-17,USA,Miami,25.7617,-80.1918,Monitor 27,Tecnología,33,350
+2024-01-26,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,17,25
+2024-02-12,Perú,Lima,-12.0464,-77.0428,Smartphone X,Móvil,1,850
+2024-03-24,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,49,350
+2024-03-27,Colombia,Medellín,6.2442,-75.5812,Teclado Mecánico,Accesorios,8,80
+2024-03-08,USA,Miami,25.7617,-80.1918,Mouse Inalámbrico,Accesorios,20,25
+2024-02-18,Colombia,Medellín,6.2442,-75.5812,Auriculares BT,Audio,19,60
+2024-02-23,España,Madrid,40.4168,-3.7038,Laptop Pro,Tecnología,23,1200
+2024-01-27,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,23,850
+2024-03-29,colombia,Bogotá,4.711,-74.0721,Monitor 27,Tecnología,46,350
+2024-03-29,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,37,80
+2024-01-24,USA,Miami,25.7617,-80.1918,Laptop Pro,Tecnología,14,1200
+2024-01-07,Perú,Lima,-12.0464,-77.0428,Mouse Inalámbrico,Accesorios,27,25
+2024-03-11,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,18,25
+2024-02-10,colombia,Bogotá,4.711,-74.0721,Auriculares BT,Audio,20,60
+2024-02-11,España,Madrid,40.4168,-3.7038,Teclado Mecánico,Accesorios,45,80
+2024-02-25,Perú,Lima,-12.0464,-77.0428,Teclado Mecánico,Accesorios,14,80
+2024-01-21,USA,Miami,25.7617,-80.1918,Teclado Mecánico,Accesorios,23,80
+2024-03-29,Colombia,Medellín,6.2442,-75.5812,Mouse Inalámbrico,Accesorios,46,25
+2024-01-14,méxico,Monterrey,25.6866,-100.3161,Mouse Inalámbrico,Accesorios,38,25
+2024-01-07,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,14,850
+2024-01-02,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,46,850
+2024-01-25,colombia,Bogotá,4.711,-74.0721,Mouse Inalámbrico,Accesorios,8,25
+2024-03-02,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,10,80
+2024-01-14,méxico,Monterrey,25.6866,-100.3161,Monitor 27,Tecnología,13,350
+2024-03-10,Argentina,Buenos Aires,-34.6037,-58.3816,Teclado Mecánico,Accesorios,41,80
+2024-02-01,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,25,25
+2024-01-30,USA,Miami,25.7617,-80.1918,Smartphone X,Móvil,36,850
+2024-01-19,Argentina,Buenos Aires,-34.6037,-58.3816,Smartphone X,Móvil,15,850
+2024-03-13,colombia,Bogotá,4.711,-74.0721,Smartphone X,Móvil,41,850
+2024-03-15,España,Madrid,40.4168,-3.7038,Mouse Inalámbrico,Accesorios,35,25

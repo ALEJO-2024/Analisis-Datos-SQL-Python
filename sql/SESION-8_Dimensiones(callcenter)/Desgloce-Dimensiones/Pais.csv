@@ -1,0 +1,18 @@
+﻿id_pais,nombre_pais,iso_pais,region_pais,pais_activo
+,Argentina,AR,Sudamerica,si
+,Bolivia,BL,Sudamerica,si
+,Chile,CL,Sudamerica,si
+,Colombia,CO,Sudamerica,si
+,Costa Rica,CR,Centroamerica,si
+,Ecuador,EC,Sudamerica,si
+,El Salvador,SV,Centroamerica,si
+,Guatemala,GT,Centroamerica,si
+,Honduras,HN,Centroamerica,si
+,Mexico,MX,Centroamerica,si
+,Nicaragua,NI,Centroamerica,si
+,Panama,PA,Centroamerica,si
+,Paraguay,PY,Sudamerica,si
+,Peru,PE,Sudamerica,si
+,Republica Dominicana,DM,Caribe,si
+,Uruguay,UY,Sudamerica,si
+,Venezuela,VE,Sudamerica,si

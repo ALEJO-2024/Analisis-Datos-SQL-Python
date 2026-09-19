@@ -1,0 +1,252 @@
+-- create database callcenter;
+-- use callcenter;
+-- ALTER TABLE raw_call_center CHANGE COLUMN `﻿Call_ID` `registro_call` VARCHAR(50); ejecutar solo si da problemas con el nombre de la columna
+
+-- select count(*) as total_registros_raw from raw_call_center;
+-- ========================================== 
+create table dim_categorias as
+select 
+concat('C', lpad(row_number() over (order by category), 2, '0')) as id_categoria,
+category as nombre_categoria,
+'si' as categoria_activa
+from (
+    select distinct category 
+    from raw_call_center 
+    where category is not null
+    order by category asc
+) as categorias_unicas;
+alter table dim_categorias 
+add primary key (id_categoria);
+-- select * from dim_categorias;
+-- ========================================== 
+/* -- cresar dim_agentes ==== tambien se puede importar de forma manual con el asistente
+create table dim_agentes as
+select 
+agent_id as id_agente , 
+null as nombre_agente,
+null as agente_activo,
+null as id_sup
+from (
+    select distinct agent_id 
+    from callenero 
+    where agent_id is not null
+    order by agent_id asc
+) as agentes_unicos;
+select * from dim_agentes;
+*/ -- usando esta forma debemos actualizar los datos con update set where despues!!!
+-- select * from dim_agentes;
+-- ========================================== 
+-- creacion e insersion de datos de forma manual
+create table dim_supervisores (
+    id_supervisor varchar(10) not null,
+    nombre_supervisor varchar(100) not null,
+    supervisor_activo varchar(2) not null,
+    primary key (id_supervisor)
+);
+insert into dim_supervisores (id_supervisor, nombre_supervisor, supervisor_activo)
+values
+    ('SP01', 'Cristian Aguirre', 'si'),
+    ('SP02', 'Rosa Ariza', 'si'),
+    ('SP03', 'Andrea Mendoza', 'si');
+-- ========================================== 
+-- Crear la tabla dim_pais y poblarla extrayendo el nombre del país de la tabla raw
+create table dim_pais as
+select 
+    concat('P', lpad(row_number() over (order by country), 2, '0')) as id_pais,
+    country as nombre_pais,
+    -- generación del código iso mediante case
+    case country
+        when 'Argentina' 			then 'AR'
+        when 'Bolivia' 				then 'BL'
+        when 'Chile' 				then 'CL'
+        when 'Colombia' 			then 'CO'
+        when 'Costa rica' 			then 'CR'
+        when 'Ecuador' 				then 'EC'
+        when 'El Salvador' 			then 'SV'
+        when 'Guatemala' 			then 'GT'
+        when 'Honduras' 			then 'HN'
+        when 'Mexico' 				then 'MX'
+        when 'Nicaragua' 			then 'NI'
+        when 'Panama' 				then 'PA'
+        when 'Paraguay' 			then 'PY'
+        when 'Peru' 				then 'PE'
+        when 'Republica dominicana' then 'DM'
+        when 'Uruguay' 				then 'UY'
+        when 'Venezuela' 			then 'VE'
+        else 'Revisar'
+    end as iso_pais,
+    -- generación de la región mediante case
+    case country
+        when 'Argentina' 			then 'Sudamerica'
+        when 'Bolivia' 				then 'Sudamerica'
+        when 'Chile' 				then 'Sudamerica'
+        when 'Colombia' 			then 'Sudamerica'
+        when 'Costa rica' 			then 'Sentroamerica'
+        when 'Ecuador' 				then 'Sudamerica'
+        when 'El Salvador' 			then 'Centroamerica'
+        when 'Guatemala' 			then 'Centroamerica'
+        when 'Honduras' 			then 'Centroamerica'
+        when 'Mexico' 				then 'Centroamerica'
+        when 'Nicaragua' 			then 'Centroamerica'
+        when 'Panama' 				then 'Centroamerica'
+        when 'Paraguay' 			then 'Sudamerica'
+        when 'Peru' 				then 'Sudamerica'
+        when 'Republica Dominicana' then 'Caribe'
+        when 'Uruguay' 				then 'Sudamerica'
+        when 'Venezuela' 			then 'Sudamerica'
+        else 'Revisar'
+    end as region_pais,
+    'si' as pais_activo -- generación del estado del país
+from (
+    select distinct country 
+    from raw_call_center 
+    where country is not null
+) as paises_raw;
+-- asignar la llave primaria (primary key) a la dimensión
+alter table dim_pais 
+add primary key (id_pais);
+select * from dim_pais;
+-- ======================================
+-- crear la tabla dim_shift y poblarla desde los datos de la tabla raw
+create table dim_shift as
+select 
+    row_number() over (order by shift) as id_shift,
+    shift as acr_shift,
+    -- generación del nombre descriptivo del turno mediante case
+    case shift
+        when 'T1' then 'Mañana'
+        when 'T2' then 'Tarde'
+        when 'T3' then 'Noche'
+        else 'Revisar'
+    end as nombre_shift
+from (
+    select distinct shift 
+    from raw_call_center 
+    where shift is not null
+) as shifts_raw;
+-- asignar la llave primaria (primary key) a la dimensión
+alter table dim_shift 
+add primary key (id_shift);
+select * from dim_shift;
+-- ======================================
+-- crear la tabla dim_clientes y poblarla desde los datos de la tabla raw
+create table dim_cliente as
+select 
+row_number () over () as id_cliente_dos,
+id_cliente,
+null as otros_datos	
+from(
+	select distinct(customer_id) as id_cliente
+	from raw_call_center
+	where customer_id is not null
+    order by id_cliente
+) as clientes_unicos;
+
+-- ======================================
+-- creación y poblado de la tabla de hechos (fact_call_center)
+drop table if exists  fact_call_center ;
+
+create table fact_call_center (
+    id_llamada varchar(20) not null,
+    fecha date not null,
+    hora time not null,
+    id_cliente varchar(50) not null,
+    -- llaves foráneas (fk) conectadas con las dimensiones creadas
+    id_pais varchar(10) not null,
+    id_categoria varchar(10) not null,
+    id_shift bigint unsigned not null,
+    id_agente varchar(20) not null,
+    -- métricas operativas y de duración
+    tiempo_espera_seg int unsigned default 0,
+    tiempo_hablado_min decimal(5,2) default 0.00,
+    tiempo_retencion_min decimal(5,2) default 0.00,
+    duracion_total_min decimal(5,2) default 0.00,
+    tiempo_post_llamada_min decimal(5,2) default 0.00,
+    -- kpis de calidad y satisfacción
+    csat int null,
+    fcr int null,
+    nps int null,
+    -- llave primaria de la tabla de hechos
+    primary key (id_llamada)
+) engine=innodb default charset=utf8mb4;
+-- =======================================================
+-- inserción masiva de datos transformados desde la tabla raw cruzando las dimensiones
+insert into fact_call_center (
+    id_llamada,
+    fecha,
+    hora,
+    id_cliente,
+    id_pais,
+    id_categoria,
+    id_shift,
+    id_agente,
+    tiempo_espera_seg,
+    tiempo_hablado_min,
+    tiempo_retencion_min,
+    duracion_total_min,
+    tiempo_post_llamada_min,
+    csat,
+    fcr,
+    nps
+)
+
+select 
+    r.registro_call as id_llamada , 
+    str_to_date(r.Date, '%d/%m/%Y') as fecha, -- transformación del formato de fecha (dd/mm/yyyy a yyyy-mm-dd)
+    cast(r.Time as time) as hora,
+    r.Customer_ID as id_cliente,
+    dp.id_pais,
+    dc.id_categoria,
+    ds.id_shift,
+    da.﻿id_agente,
+    -- métricas cuantitativas casteadas
+    cast(r.queue_time_sec as unsigned) as tiempo_espera_seg,
+    cast(r.talk_time_min as decimal(5,2)) as tiempo_hablado_min,
+    cast(r.hold_time_min as decimal(5,2)) as tiempo_retencion_min,
+    cast(r.duration_min as decimal(5,2)) as duracion_total_min,
+    cast(r.acw_min as decimal(5,2)) as tiempo_post_llamada_min,
+    -- indicadores de negocio
+    cast(r.csat as unsigned) as csat,
+    cast(r.fcr as unsigned) as fcr,
+    cast(r.nps as unsigned) as nps
+    from raw_call_center r
+    inner join dim_pais dp on r.Country = dp.nombre_pais
+	inner join dim_categorias dc on r.Category = dc.nombre_categoria 
+    inner join dim_shift ds on r.Shift = ds.acr_shift 
+    inner join dim_agentes da on r.Agent_ID = da.﻿id_agente;
+
+alter table fact_call_center
+add constraint fk_fact_pais 
+    foreign key (id_pais) references dim_pais(id_pais)
+    on delete restrict on update cascade,
+
+add constraint fk_fact_categoria 
+    foreign key (id_categoria) references dim_categorias(id_categoria)
+    on delete restrict on update cascade,
+
+add constraint fk_fact_shift 
+    foreign key (id_shift) references dim_shift(id_shift)
+    on delete restrict on update cascade,
+
+add constraint fk_fact_agente 
+    foreign key (id_agente) references dim_agentes(id_agente)
+    on delete restrict on update cascade;
+
+
+-- Consulta de validación final del modelo estrella completo
+select 
+    f.id_llamada,
+    f.fecha,
+    p.nombre_pais,
+    c.nombre_categoria,
+    s.nombre_shift,
+    a.id_agente,
+    f.duracion_total_min,
+    f.csat,
+    f.nps
+from fact_call_center f
+inner join dim_pais p on f.id_pais = p.id_pais
+inner join dim_categorias c on f.id_categoria = c.id_categoria
+inner join dim_shift s on f.id_shift = s.id_shift
+inner join dim_agentes a on f.id_agente = a.id_agente
+limit 15;

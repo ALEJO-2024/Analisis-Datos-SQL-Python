@@ -1,0 +1,43 @@
+Taller 2 CRUD
+-- PARTE 1: Creación
+CREATE DATABASE TiendaElectronica;
+USE TiendaElectronica;
+
+CREATE TABLE Proveedores (
+    ProveedorID INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(100),
+    Pais VARCHAR(50),
+    Telefono VARCHAR(20)
+);
+CREATE TABLE Productos (
+    ProductoID INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(100),
+    Categoria VARCHAR(50),
+    Precio DECIMAL(10,2),
+    ProveedorID INT
+);
+CREATE TABLE Ventas (
+    VentaID INT AUTO_INCREMENT PRIMARY KEY,
+    ProductoID INT,
+    FechaVenta DATE,
+    Cantidad INT,
+    Cliente VARCHAR(100)
+);
+
+INSERT INTO Proveedores
+VALUES 
+(1,'Samsung', 'Corea del Sur', '+82-2-1234-5678'),
+(2,'Apple', 'Estados Unidos', '+1-800-123-4567'),
+(3,'Sony', 'Japón', '+81-3-1234-5678');
+
+INSERT INTO Productos
+VALUES
+(1 ,'Televisor Samsung 50"', 'Televisores', 500.00, 1),
+(2 ,'iPhone 13', 'Smartphones', 999.00, 2),
+(3 ,'PlayStation 5', 'Consolas', 499.00, 3);
+
+INSERT INTO Ventas 
+VALUES 
+(1, 1, '2024-07-01', 2, 'Juan Pérez'),
+(2, 2, '2024-07-03', 1, 'Ana Gómez'),
+(3, 3, '2024-07-05', 3, 'Luis Martínez');

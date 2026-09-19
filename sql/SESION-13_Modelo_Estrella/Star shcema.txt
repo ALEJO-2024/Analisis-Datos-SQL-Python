@@ -1,0 +1,28 @@
+use callcenter;
+select * from raw_call_center;
+
+create table dim_category as 
+select 
+concat('C', row_number()over() ) as id_categoria ,
+category , 
+'si' as Categoria_Activa
+from (
+	select 
+	distinct(category) AS category
+	from raw_call_center order by category asc
+) as categoria_unicas;
+select * from dim_category;
+
+-- Cree la tabla aca
+select 
+Agent_ID,
+null as nombre_agente ,
+null as agente_activo ,
+null as id_sup
+from 
+(select 
+distinct(Agent_ID) AS Agent_ID
+from raw_call_center order by Agent_ID asc
+) as agentes_unicos;
+
+

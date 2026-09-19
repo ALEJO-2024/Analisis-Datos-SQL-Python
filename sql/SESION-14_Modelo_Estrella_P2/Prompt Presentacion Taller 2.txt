@@ -1,0 +1,142 @@
+Crea una presentación académica y visual sobre "Bases de Datos Relacionales en SQL", basada en las siguientes preguntas:
+
+1. ¿Qué son las bases de datos relacionales?
+2. ¿Cómo se diseñan?
+3. ¿Para qué nos sirven?
+
+Contexto:
+La presentación hace parte de un taller de un bootcamp de Análisis de Datos. El objetivo es compartir nuestros conocimientos como analistas de datos acerca de las bases de datos relacionales en SQL.
+
+Quiero que la presentación tenga entre 8 y 10 diapositivas y que utilice un lenguaje claro, sencillo, natural y humanizado, evitando definiciones excesivamente técnicas o que parezcan copiadas de un libro.
+
+Estructura sugerida:
+
+DIAPOSITIVA 1 – PORTADA
+Título: "Bases de Datos Relacionales en SQL"
+Subtítulo: "¿Qué son, cómo se diseñan y para qué nos sirven?"
+Incluir un diseño moderno relacionado con datos, bases de datos y SQL.
+Dejar espacio para colocar mi nombre.
+
+DIAPOSITIVA 2 – INTRODUCCIÓN
+Explicar brevemente por qué las bases de datos son importantes en el análisis de datos.
+Relacionar el tema con situaciones reales de las empresas.
+
+DIAPOSITIVA 3 – ¿QUÉ SON LAS BASES DE DATOS RELACIONALES?
+Explicar de manera sencilla qué es una base de datos relacional.
+Explicar que la información se organiza principalmente en tablas formadas por filas y columnas.
+Mencionar que las tablas pueden relacionarse entre sí mediante claves.
+
+Incluir un ejemplo visual sencillo:
+Clientes → Ventas → Productos.
+
+DIAPOSITIVA 4 – ELEMENTOS PRINCIPALES
+Explicar de forma visual:
+- Tabla
+- Registro o fila
+- Campo o columna
+- Clave primaria (PRIMARY KEY)
+- Clave foránea (FOREIGN KEY)
+
+Utilizar ejemplos sencillos para que cualquier persona pueda entenderlos.
+
+DIAPOSITIVA 5 – ¿CÓMO SE DISEÑA UNA BASE DE DATOS RELACIONAL?
+Explicar el proceso paso a paso:
+1. Identificar la información que se necesita.
+2. Identificar las entidades.
+3. Crear las tablas.
+4. Definir los campos.
+5. Establecer las claves primarias.
+6. Crear las relaciones mediante claves foráneas.
+7. Revisar y organizar la estructura.
+
+Mostrar el proceso mediante un diagrama sencillo.
+
+DIAPOSITIVA 6 – EJEMPLO PRÁCTICO
+Mostrar un ejemplo de una pequeña base de datos de ventas.
+
+Tablas:
+CLIENTES
+- cliente_id
+- nombre
+- ciudad
+
+PRODUCTOS
+- producto_id
+- producto
+- precio
+
+VENTAS
+- venta_id
+- cliente_id
+- producto_id
+- fecha
+- cantidad
+
+Mostrar visualmente cómo se relacionan las tablas.
+
+DIAPOSITIVA 7 – SQL Y LAS BASES DE DATOS
+Explicar brevemente cómo SQL permite trabajar con bases de datos relacionales.
+
+Incluir ejemplos sencillos de código:
+
+SELECT * FROM clientes;
+
+SELECT nombre, ciudad
+FROM clientes;
+
+SELECT c.nombre, v.fecha, v.cantidad
+FROM clientes c
+INNER JOIN ventas v
+ON c.cliente_id = v.cliente_id;
+
+Explicar brevemente qué hace cada consulta.
+
+DIAPOSITIVA 8 – ¿PARA QUÉ NOS SIRVEN?
+Explicar aplicaciones prácticas:
+- Almacenar información organizada.
+- Consultar grandes cantidades de datos.
+- Relacionar información de diferentes áreas.
+- Generar reportes.
+- Analizar ventas y clientes.
+- Apoyar la toma de decisiones.
+- Mantener la información estructurada y consistente.
+
+Relacionarlo específicamente con el trabajo de un analista de datos.
+
+DIAPOSITIVA 9 – VENTAJAS
+Mostrar de forma visual las principales ventajas:
+- Organización
+- Integridad de los datos
+- Facilidad para consultar información
+- Relaciones entre diferentes tablas
+- Escalabilidad
+- Seguridad y control de acceso
+- Apoyo al análisis y toma de decisiones
+
+DIAPOSITIVA 10 – CONCLUSIÓN
+Crear una conclusión humanizada que explique que las bases de datos relacionales son una herramienta fundamental para los analistas de datos porque permiten organizar, relacionar, consultar y analizar información de manera estructurada.
+
+La conclusión debe sonar como una reflexión de un estudiante que está aprendiendo análisis de datos, no como una definición académica copiada.
+
+REQUISITOS DE DISEÑO:
+- Utilizar un estilo moderno, profesional y relacionado con tecnología y análisis de datos.
+- Utilizar diagramas, iconos y elementos visuales en lugar de llenar las diapositivas de texto.
+- Mantener poco texto por diapositiva.
+- Utilizar una paleta de colores relacionada con tecnología/datos.
+- Mantener una tipografía moderna y fácil de leer.
+- Los ejemplos SQL deben tener formato de código y buena legibilidad.
+- Los diagramas de relaciones entre tablas deben ser visualmente claros.
+- Mantener coherencia visual entre todas las diapositivas.
+- Evitar imágenes genéricas que no aporten al contenido.
+- No inventar conceptos técnicos.
+- Revisar la ortografía y redacción en español.
+
+IMPORTANTE:
+La presentación debe responder claramente las tres preguntas principales del taller:
+¿Qué son?
+¿Cómo se diseñan?
+¿Para qué nos sirven?
+
+El resultado debe parecer una presentación realizada por un estudiante de Análisis de Datos que entiende el tema y sabe explicarlo de forma sencilla y práctica.
+
+NOTA: Prioriza la explicación visual sobre el texto. Cada diapositiva debe poder entenderse en aproximadamente 30 segundos y los detalles adicionales deben quedar como apoyo para la exposición oral.

@@ -1,0 +1,18 @@
+﻿ID_MAIN,id_agente,nombre_agente,agente_activo,id_sup
+,AG_001,María González,si,SP01
+,AG_002,Juan Pérez,si,SP01
+,AG_003,Ana Rodríguez,si,SP01
+,AG_004,Carlos Sánchez,si,SP01
+,AG_005,Laura Martínez,si,SP01
+,AG_006,Luis Ramírez,si,SP03
+,AG_007,Sofía Hernández,si,SP03
+,AG_008,Andrés Gómez,si,SP03
+,AG_009,Valentina López,si,SP03
+,AG_010,Miguel Castro,si,SP03
+,AG_011,Camila Pérez,si,SP02
+,AG_012,José Morales,si,SP02
+,AG_013,Daniela Torres,si,SP02
+,AG_014,Diego Vargas,si,SP02
+,AG_015,Aura Gonzales,si,SP02
+,AG_016,Luis Gomez,si,SP02
+,AG_017,Angela Nuñez,si,SP02
