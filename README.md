@@ -30,5 +30,5 @@ El proyecto está organizado de la siguiente manera para mantener un código lim
 ├── .gitignore              # Archivos excluidos del control de versiones
 └── README.md               # Documentación principal del proyecto
 
-
-<em>Desarrollado por Oscar Alejandro Londoño Gil</em>
+---
+*Desarrollado por Oscar Alejandro Londoño Gil*
