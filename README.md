@@ -31,4 +31,4 @@ El proyecto está organizado de la siguiente manera para mantener un código lim
 └── README.md               # Documentación principal del proyecto
 
 
-Desarrollado por Oscar Alejandro Londoño Gil
+<em>Desarrollado por Oscar Alejandro Londoño Gil</em>
